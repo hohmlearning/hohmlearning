@@ -1,15 +1,16 @@
-### Dear visitor, welcome to my portfolio,
+### Dear Visitor, welcome to my portfolio,
 #### Engineering | Science | Computer Science
+I'm a Process Engineering burning for innovative developments. I want to push the boundaries making the impossible possible. Therefore, I want to incorporate my engineering skills with machine learning. Enhanced methods are possibly created through superposition of robust, well known technics with recent machine learning algorithms and approaches.
 
-I'm a Process Engineering burning for innovative developments. I want to push the boundaries making the impossible possible. Therefore, I want to incorporate my engineering skills with machine learning. Enhanced methods are possibly created through superposition of robust well known technics with recent machine learning algorithms and approaches.
+Skills: Thermodynamic | Chemical Reactive Engineerung | Applied Mathematics | Machine Learning
 
-Skills: VUE JS / REACT / JS / HTML / CSS
+- 🔭 I’m currently working on implementing Machine Learning Algorithms 
+- 🌱 I’m currently learning Probability Theory and Statistics 
+- ⚡ Fun fact: I'm a passionate hobby fotographer 
 
-- 🔭 I’m currently working on this page.yx 
-- 👯 I’m looking to collaborate on yxc 
-- 💬 Ask me about yxc 
-- 😄 Pronouns: yx 
-- ⚡ Fun fact: yxc 
+
+
+
 
 
 
