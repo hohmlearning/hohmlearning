@@ -20,6 +20,6 @@ I'm a Process Engineering burning for innovative developments. I want to push th
 
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hohmlearning)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hohmlearning&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
