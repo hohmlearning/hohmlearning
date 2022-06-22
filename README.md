@@ -11,7 +11,9 @@ I'm a Process Engineering burning for innovative developments. I want to push th
 - 🌱 I’m currently learning Probability Theory and Statistics 
 - ⚡ Fun fact: I'm a passionate hobby fotographer find me on
 
-<p align="right">
+<p align="left">
+- ⚡  Fun fact: I'm a passionate hobby fotographer find me on
+
 <a href="https://instagram.com/pixel.optima" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fdgdfs" height="30" width="40" /></a>
 </p>
 
