@@ -1,13 +1,11 @@
 ## Dear Visitor, welcome to my portfolio,
----
-
 
 |Engineering | Science | Computer Science|
 | ------------- |:-------------:| -----:|
 
----
+
 I'm a Process Engineering burning for innovative developments. I want to push the boundaries making the impossible possible. Therefore, I want to incorporate my engineering skills with machine learning. Enhanced methods are possibly created through superposition of robust, well known technics with recent machine learning algorithms and approaches.
----
+
 
 |Thermodynamics | Chemical Reactive Engineerung  | Applied Mathematics | Machine Learning |
 | ------------- |:-------------:| -----:|-----:|
