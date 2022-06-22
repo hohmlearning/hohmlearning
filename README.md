@@ -15,6 +15,7 @@ I'm a Process Engineering burning for innovative developments. I want to push th
 | ------------- |:-------------:| -----:|-----:|
 ---
 
+## Short Facts
 - 🔭 I’m currently working on implementing Machine Learning Algorithms 
 - 🌱 I’m currently learning Probability Theory and Statistics 
 - ⚡ Fun fact: I'm a passionate hobby fotographer find me on
