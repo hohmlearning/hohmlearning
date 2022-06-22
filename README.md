@@ -18,11 +18,13 @@ I'm a Process Engineering burning for innovative developments. I want to push th
 ## Short Facts
 - I’m currently working on implementing Machine Learning Algorithms in Python from scratch
 - I’m currently learning Probability Theory and Statistics 
-- Fun fact: I'm a passionate hobby fotographer find me on
 
 - <p align="left"> Fun fact: I'm a passionate hobby fotographer find me on <a href="https://instagram.com/pixel.optima" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fdgdfs" height="30" width="40" /></a>
 </p>
 
+## Philosophy
+- Investing 20 % of your life time today, will turn you in a high productive individual 
+- Knowledge grows at the boundaries of disciplines.
 
 
 ---
