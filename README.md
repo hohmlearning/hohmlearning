@@ -38,7 +38,7 @@ I'm a Process Engineering burning for innovative developments. I want to push th
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hohmlearning&layout=compact&show_icons=true&theme=radical&align="middle")](https://github.com/anuraghazra/github-readme-stats)
 
-![alt-text-1](image1.png "title-1") ![alt-text-2](https://github-readme-stats.vercel.app/api/top-langs/?username=hohmlearning&layout=compact&show_icons=true&theme=radical&align="middle")](https://github.com/anuraghazra/github-readme-stats)
+![alt-text-1](image1.png "title-1") [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hohmlearning&layout=compact&show_icons=true&theme=radical&align="middle")](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
