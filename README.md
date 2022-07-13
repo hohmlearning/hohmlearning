@@ -11,7 +11,7 @@ I'm a Process Engineering burning for innovative developments. I want to push th
 ---
 
 ## Skills and Expertise
-|Thermodynamics | Chemical Reactive Engineerung  | Applied Mathematics | Machine Learning |
+|Thermodynamics | Chemical Reactive Engineering  | Applied Mathematics | Machine Learning |
 | ------------- |:-------------:| -----:|-----:|
 
 ---
