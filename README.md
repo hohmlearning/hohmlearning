@@ -18,7 +18,7 @@ I'm a Process Engineering burning for innovative developments. I want to push th
 
 ## Philosophy
 - Where a will, there is a way.
-- Investing 20 % of your life time today, will turn you in an highly productive individual. 
+- Investing 20 % of your time in expanding your knowledge today, will turn you into a highly productive individual.
 - Knowledge grows at the boundaries of disciplines.
 
 
