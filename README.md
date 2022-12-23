@@ -1,6 +1,6 @@
 ## Dear Visitor, welcome to my portfolio,
 
-I'm a Process Engineering burning for innovative developments. I want to push the boundaries making the impossible possible. Incorporation of  engineering skills with machine learning, enable new modeling approaches. Enhanced methods are possibly created through the superposition of robust, well-known technics with recent machine learning algorithms.
+I'm a Process Engineering burning for innovative developments. I want to push the boundaries making the impossible possible. The incorporation of engineering skills with machine learning enables new modeling approaches. Enhanced methods are possibly created through the superposition of robust, well-known technics with recent machine learning algorithms.
 
 ---
 
