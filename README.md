@@ -1,6 +1,6 @@
-## Dear Visitor, welcome to my portfolio,
+## Dear visitor, welcome to my portfolio,
 
-I'm a process engineer who is burning for innovative developments. I want to push the boundaries, making the impossible possible. The incorporation of engineering skills with machine learning enables new modeling approaches. Enhanced methods are possibly created by superposing robust, well-known techniques with recent machine learning algorithms.
+I'm a process engineer who is hungry for innovative developments. I want to push the boundaries, making the impossible possible. The incorporation of engineering skills with machine learning enables new modeling approaches. Enhanced methods are possibly created by superposing robust, well-known techniques with recent machine learning algorithms.
 
 ---
 
