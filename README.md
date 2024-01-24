@@ -1,6 +1,6 @@
 ## Dear Visitor, welcome to my portfolio,
 
-I'm a Process Engineering burning for innovative developments. I want to push the boundaries making the impossible possible. The incorporation of engineering skills with machine learning enables new modeling approaches. Enhanced methods are possibly created through the superposition of robust, well-known technics with recent machine learning algorithms.
+I'm a process engineer who is burning for innovative developments. I want to push the boundaries, making the impossible possible. The incorporation of engineering skills with machine learning enables new modeling approaches. Enhanced methods are possibly created by superposing robust, well-known techniques with recent machine learning algorithms.
 
 ---
 
@@ -18,15 +18,15 @@ I'm a Process Engineering burning for innovative developments. I want to push th
 
 ## Philosophy
 - Where a will, there is a way.
-- Investing 20 % of your time in expanding your knowledge today, will turn you into a highly productive individual.
+- Investing 20 % of your time in expanding your knowledge today will turn you into a highly productive individual.
 - Knowledge grows at the boundaries of disciplines.
 
 
 ---
 
 ## Short Facts
-- :fire: I’m currently working on implementing Machine Learning Algorithms in Python from scratch.
-- :zap: Busy with learning Probability Theory and Statistics. 
+- :fire: I’m currently working on implementing Machine-Learning algorithms in Python from scratch.
+- :zap: Currently busy with learning probability theory and statistics.
 
 - <p align="left"> :dark_sunglasses: Fun fact: I'm a passionate hobby photographer. Find me on <a href="https://instagram.com/pixel.optima" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fdgdfs" height="30" width="40" /></a>.
 </p>
